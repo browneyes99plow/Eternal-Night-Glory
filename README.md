@@ -189,4 +189,4 @@ This repository serves as the official landing page for Eternal Night Glory. The
 **Get the most recent version of Eternal Night Glory today!**
 
 ---
-**Last updated:** 2026-11-13 20:17:31 UTC
+**Last updated:** 2026-11-14 01:14:14 UTC
